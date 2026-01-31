@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-01-31 | “所谓觉悟，乃是在漆黑的荒原中，开辟出一条属于自己的星光大道！”<br>——《意大利黑手党第二任教父》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
+
 | 2026-01-30 | “幸运的人一生都在被童年治愈，不幸的人一生都在治愈童年。”<br>——《阿尔弗雷德·阿德勒》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd8gz7.jpg' height='150'> |
 
 | 2026-01-29 | “身为冒险者，如果安静的老死在床上，那简直就是耻辱！”<br>——《恶魔法则》 | <img src='https://w.wallhaven.cc/full/q2/wallhaven-q25god.png' height='150'> |
