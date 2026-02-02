@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-02 | “爱,其实很简单，困难的是去接受它。”<br>——《通灵王》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
+
 | 2026-02-01 | “如果不能忠于自己的心，胜负又有什么价值呢？”<br>——《塔希里亚故事集》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrypp.png' height='150'> |
 
 | 2026-01-31 | “所谓觉悟，乃是在漆黑的荒原中，开辟出一条属于自己的星光大道！”<br>——《意大利黑手党第二任教父》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
