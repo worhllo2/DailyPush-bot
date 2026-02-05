@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-05 | “纵然变化，依然故我。”<br>——《墓志铭》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k96kxm.jpg' height='150'> |
+
 | 2026-02-04 | “此时此刻的咱啊，能和汝在一起，是最幸福的了。”<br>——《狼与香辛料》 | <img src='https://w.wallhaven.cc/full/eo/wallhaven-eo19p8.jpg' height='150'> |
 
 | 2026-02-03 | “あなたは敵だけど悪くない。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
