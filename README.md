@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-08 | “不是别人，是我，承认了你的价值。”<br>——《fate/zero》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
+
 | 2026-02-07 | “奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。”<br>——《魔法少女小圆》 | <img src='https://w.wallhaven.cc/full/xl/wallhaven-xlx1mv.png' height='150'> |
 
 | 2026-02-06 | “夕阳真是耀眼无比啊。”<br>——《女高中生的虚度日常》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
