@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-11 | “憧憬是距离理解最遥远的感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
+
 | 2026-02-10 | “人总是贪婪的，就像最开始，我也只是想知道你的名字。”<br>——《你的名字》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
 
 | 2026-02-09 | “憧憬是距离理解最遥远的感情。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3evd1.jpg' height='150'> |
