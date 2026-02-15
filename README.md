@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-15 | “我命令你，喜欢我！”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
+
 | 2026-02-14 | “只有分离后才能懂的事，却没有了感慨的时间。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
 
 | 2026-02-13 | “既然今天是昨天，那么睡到明天就好。”<br>——《青春猪头少年不会梦到兔女郎学姐》 | <img src='https://w.wallhaven.cc/full/q2/wallhaven-q25god.png' height='150'> |
