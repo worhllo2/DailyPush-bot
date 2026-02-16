@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-16 | “我只是不想再失去他——哪怕是仅存在一瞬的幻影！”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
+
 | 2026-02-15 | “我命令你，喜欢我！”<br>——《加油大魔王》 | <img src='https://w.wallhaven.cc/full/o3/wallhaven-o37xkl.jpg' height='150'> |
 
 | 2026-02-14 | “只有分离后才能懂的事，却没有了感慨的时间。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
