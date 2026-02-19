@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-19 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2dr.jpg' height='150'> |
+
 | 2026-02-18 | “时间是存在者的时间。”<br>——《存在与时间》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
 
 | 2026-02-17 | “愿你有一天，能和你最重要的人重逢。”<br>——《可塑性记忆》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
