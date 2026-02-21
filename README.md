@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-21 | “军人天生就舍弃了战斗的意义！”<br>——《机动战士高达00》 | <img src='https://w.wallhaven.cc/full/xl/wallhaven-xlx1mv.png' height='150'> |
+
 | 2026-02-20 | “不拼尽全力去试一下，又怎么会知道啊”<br>——《刺客伍六七》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od55vm.jpg' height='150'> |
 
 | 2026-02-19 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2dr.jpg' height='150'> |
