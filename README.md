@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-23 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/72/wallhaven-723o1y.jpg' height='150'> |
+
 | 2026-02-22 | “谁是我们的敌人，谁是我们的朋友，这是革命的首要问题。”<br>——《毛主席语录》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
 
 | 2026-02-21 | “军人天生就舍弃了战斗的意义！”<br>——《机动战士高达00》 | <img src='https://w.wallhaven.cc/full/xl/wallhaven-xlx1mv.png' height='150'> |
