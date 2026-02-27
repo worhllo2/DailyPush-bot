@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-27 | “不服从命令的人是人渣，抛弃同伴的人连人渣都不如。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
+
 | 2026-02-26 | “我们的学生会长，比高达还强。”<br>——《旋风管家》 | <img src='https://w.wallhaven.cc/full/0p/wallhaven-0pr29j.png' height='150'> |
 
 | 2026-02-25 | “今后无论发生什么事也好，这个左手上的⋯⋯都是同伴的记号！”<br>——《海贼王》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lmlp22.jpg' height='150'> |
