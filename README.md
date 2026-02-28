@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-02-28 | “我不是天生的王者 但我骨子里流动着不让我低头的血液”<br>——《海贼王》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2d2.jpg' height='150'> |
+
 | 2026-02-27 | “不服从命令的人是人渣，抛弃同伴的人连人渣都不如。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3kewyv.png' height='150'> |
 
 | 2026-02-26 | “我们的学生会长，比高达还强。”<br>——《旋风管家》 | <img src='https://w.wallhaven.cc/full/0p/wallhaven-0pr29j.png' height='150'> |
