@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-02 | “一起去看星星吧。”<br>——《未来日记》 | <img src='https://w.wallhaven.cc/full/j3/wallhaven-j35qvp.jpg' height='150'> |
+
 | 2026-03-01 | “圣人不死，大盗不止。”<br>——《庄子·外篇·胠箧第十》 | <img src='https://w.wallhaven.cc/full/p8/wallhaven-p8grxj.jpg' height='150'> |
 
 | 2026-02-28 | “我不是天生的王者 但我骨子里流动着不让我低头的血液”<br>——《海贼王》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2d2.jpg' height='150'> |
