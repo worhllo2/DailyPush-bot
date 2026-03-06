@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-06 | “如果真是这样， 就由我来把彭格列毁灭！”<br>——《家庭教师》 | <img src='https://w.wallhaven.cc/full/8o/wallhaven-8o5xlk.png' height='150'> |
+
 | 2026-03-05 | “如果你能在浪费时间中获得乐趣，就不算浪费时间。”<br>——《罗素》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r26vz1.jpg' height='150'> |
 
 | 2026-03-04 | “梦想是一个天真的词，实现梦想是一个残酷的词”<br>——《哆啦A梦》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
