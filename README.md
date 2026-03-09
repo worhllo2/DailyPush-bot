@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-09 | “生命如同寓言，其价值不在于长短，而在于内容。”<br>——《塞涅卡》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
+
 | 2026-03-08 | “爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
 
 | 2026-03-07 | “乘上与平时相反的列车，为了去见从未见过的风景。”<br>——《比宇宙更远的地方》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
