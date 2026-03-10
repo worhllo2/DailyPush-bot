@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-10 | “如果不能忠于自己的心，胜负又有什么价值呢？”<br>——《塔希里亚故事集》 | <img src='https://w.wallhaven.cc/full/0w/wallhaven-0w26ex.png' height='150'> |
+
 | 2026-03-09 | “生命如同寓言，其价值不在于长短，而在于内容。”<br>——《塞涅卡》 | <img src='https://w.wallhaven.cc/full/3k/wallhaven-3klly6.jpg' height='150'> |
 
 | 2026-03-08 | “爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq7ky2.jpg' height='150'> |
