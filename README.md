@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-12 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y27k.png' height='150'> |
+
 | 2026-03-11 | “取法于上，仅得为中；取法于中，故为其下。”<br>——《每日一习话》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jmxp9.jpg' height='150'> |
 
 | 2026-03-10 | “如果不能忠于自己的心，胜负又有什么价值呢？”<br>——《塔希里亚故事集》 | <img src='https://w.wallhaven.cc/full/0w/wallhaven-0w26ex.png' height='150'> |
