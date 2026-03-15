@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-15 | “今后无论发生什么事也好，这个左手上的⋯⋯都是同伴的记号！”<br>——《海贼王》 | <img src='https://w.wallhaven.cc/full/6d/wallhaven-6dgkd6.jpg' height='150'> |
+
 | 2026-03-14 | “跌跌撞撞的成长，又美又疼才是本质。”<br>——《哥斯拉不说话》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wyxpr7.jpg' height='150'> |
 
 | 2026-03-13 | “爱,其实很简单，困难的是去接受它。”<br>——《通灵王》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qjovx.png' height='150'> |
