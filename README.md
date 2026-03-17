@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-17 | “无法逃避的是自我，而无法挽回的是过去。”<br>——《机动战士高达》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
+
 | 2026-03-16 | “很多事只是最初看起来有意义，但经过多次重复就慢慢失去了意义。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
 
 | 2026-03-15 | “今后无论发生什么事也好，这个左手上的⋯⋯都是同伴的记号！”<br>——《海贼王》 | <img src='https://w.wallhaven.cc/full/6d/wallhaven-6dgkd6.jpg' height='150'> |
