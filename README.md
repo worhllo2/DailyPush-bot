@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-18 | “一点星光，在心上就能反射出太阳。”<br>——《星光效应》 | <img src='https://w.wallhaven.cc/full/lq/wallhaven-lq88vr.jpg' height='150'> |
+
 | 2026-03-17 | “无法逃避的是自我，而无法挽回的是过去。”<br>——《机动战士高达》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
 
 | 2026-03-16 | “很多事只是最初看起来有意义，但经过多次重复就慢慢失去了意义。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/7p/wallhaven-7po3pv.jpg' height='150'> |
