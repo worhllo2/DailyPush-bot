@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-20 | “以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。”<br>——《笨蛋测验召唤兽》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
+
 | 2026-03-19 | “为者常成，行者常至。”<br>——《晏子春秋·内篇杂下》 | <img src='https://w.wallhaven.cc/full/yx/wallhaven-yx3v9g.jpg' height='150'> |
 
 | 2026-03-19 | “认真的思索，真诚的明辨是非，有这种态度，大概可算是善良吧。”<br>——《沉默的大多数》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
