@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-22 | “Stay hungry, Stay foolish.”<br>——《乔布斯斯坦福大学毕业演讲》 | <img src='https://w.wallhaven.cc/full/rd/wallhaven-rd3rkq.png' height='150'> |
+
 | 2026-03-21 | “是个男人就要对自己的人生负责”<br>——《麻辣教师》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
 
 | 2026-03-20 | “以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。”<br>——《笨蛋测验召唤兽》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
