@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-23 | “生命中，再无聊的时光，也都是限量版。”<br>——《英语杂刊》 | <img src='https://w.wallhaven.cc/full/rd/wallhaven-rd3rkq.png' height='150'> |
+
 | 2026-03-22 | “Stay hungry, Stay foolish.”<br>——《乔布斯斯坦福大学毕业演讲》 | <img src='https://w.wallhaven.cc/full/rd/wallhaven-rd3rkq.png' height='150'> |
 
 | 2026-03-21 | “是个男人就要对自己的人生负责”<br>——《麻辣教师》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
