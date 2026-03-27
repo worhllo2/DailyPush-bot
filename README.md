@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-27 | “现在我这个遗患，已经成为把真学们极欲拔掉的夫来比道中钉。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
+
 | 2026-03-26 | “我今天就是要带她走，我看哪个敢拦我。”<br>——《刺客伍六七》 | <img src='https://w.wallhaven.cc/full/mp/wallhaven-mp33vk.jpg' height='150'> |
 
 | 2026-03-25 | “批判的武器当然不能代替武器的批判。”<br>——《〈黑格尔法哲学批判〉导言》 | <img src='https://w.wallhaven.cc/full/qd/wallhaven-qd83vl.png' height='150'> |
