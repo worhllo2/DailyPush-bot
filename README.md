@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-03-29 | “现在我这个遗患，已经成为把真学们极欲拔掉的夫来比道中钉。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5d6j5.jpg' height='150'> |
+
 | 2026-03-28 | “现在我这个遗患，已经成为把真学们极欲拔掉的夫来比道中钉。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
 
 | 2026-03-27 | “现在我这个遗患，已经成为把真学们极欲拔掉的夫来比道中钉。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
