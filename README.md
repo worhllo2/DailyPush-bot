@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-02 | “我今天就要带她走，我看谁敢拦我！”<br>——《刺客伍六七》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
+
 | 2026-04-01 | “哪怕一百个愚笨的人在一起聚会，也无法产生一个智慧的人。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5d6j5.jpg' height='150'> |
 
 | 2026-03-31 | “越想贴近事实，不明白的事情就越多。”<br>——《宝石之国》 | <img src='https://w.wallhaven.cc/full/vg/wallhaven-vge7r8.jpg' height='150'> |
