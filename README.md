@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-05 | “与其因为不信任而后悔，不如因为相信而后悔。”<br>——《刀剑神域》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k9xx67.png' height='150'> |
+
 | 2026-04-04 | “两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。”<br>——《jojo的奇妙冒险》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
 
 | 2026-04-03 | “廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。”<br>——《狼与香辛料》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
