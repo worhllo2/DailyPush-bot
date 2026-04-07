@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-07 | “我喜欢你，比世界上任何人都喜欢你。”<br>——《名侦探柯南》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2dr.jpg' height='150'> |
+
 | 2026-04-06 | “我和你，可以做朋友吗？”<br>——《声の形》 | <img src='https://w.wallhaven.cc/full/gj/wallhaven-gjppxl.jpg' height='150'> |
 
 | 2026-04-05 | “与其因为不信任而后悔，不如因为相信而后悔。”<br>——《刀剑神域》 | <img src='https://w.wallhaven.cc/full/k9/wallhaven-k9xx67.png' height='150'> |
