@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-10 | “从你站在桥上看我的 那一刻起你就是我的世界。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
+
 | 2026-04-09 | “为学日益，为道日损。”<br>——《道德经》 | <img src='https://w.wallhaven.cc/full/8x/wallhaven-8x1d5y.png' height='150'> |
 
 | 2026-04-08 | “我们等待着戈多，在等待的过程中发现戈多就是等待本身。”<br>——《王希明》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
