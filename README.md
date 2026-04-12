@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-12 | “死亡不是终点，被遗忘才是。”<br>——《寻梦环游记》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jppm3.png' height='150'> |
+
 | 2026-04-11 | “如果把那一端的敌人全部杀掉的话，我们就能自由了吗？”<br>——《进击的巨人》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
 
 | 2026-04-10 | “从你站在桥上看我的 那一刻起你就是我的世界。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
