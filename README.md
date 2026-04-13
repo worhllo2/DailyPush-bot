@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-13 | “不敢打开信封啊。因为，打开了就结束了啊。”<br>——《旋风管家》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
+
 | 2026-04-12 | “死亡不是终点，被遗忘才是。”<br>——《寻梦环游记》 | <img src='https://w.wallhaven.cc/full/1j/wallhaven-1jppm3.png' height='150'> |
 
 | 2026-04-11 | “如果把那一端的敌人全部杀掉的话，我们就能自由了吗？”<br>——《进击的巨人》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
