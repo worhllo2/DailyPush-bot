@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-15 | “遇到事情不能坐以待毙。”<br>——《捷德奥特曼》 | <img src='https://w.wallhaven.cc/full/6k/wallhaven-6k9qr6.png' height='150'> |
+
 | 2026-04-14 | “知道和感觉到是两码事。”<br>——《《看见》》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
 
 | 2026-04-13 | “不敢打开信封啊。因为，打开了就结束了啊。”<br>——《旋风管家》 | <img src='https://w.wallhaven.cc/full/m3/wallhaven-m3vd3k.jpg' height='150'> |
