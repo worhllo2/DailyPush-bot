@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-18 | “没有行动的新的领悟，是转瞬即逝的。”<br>——《心理课》 | <img src='https://w.wallhaven.cc/full/vm/wallhaven-vmrypp.png' height='150'> |
+
 | 2026-04-17 | “对于我们的幸福来说，别人的看法在本质上来讲并不十分重要。”<br>——《人生的智慧》 | <img src='https://w.wallhaven.cc/full/dg/wallhaven-dgd9qj.jpg' height='150'> |
 
 | 2026-04-15 | “遇到事情不能坐以待毙。”<br>——《捷德奥特曼》 | <img src='https://w.wallhaven.cc/full/6k/wallhaven-6k9qr6.png' height='150'> |
