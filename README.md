@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-21 | “不要轻易的口出狂言，那样只会透露出你的软弱。”<br>——《BLEACH》 | <img src='https://w.wallhaven.cc/full/6q/wallhaven-6qddg6.jpg' height='150'> |
+
 | 2026-04-20 | “那些听不见音乐的人以为跳舞的人疯了。”<br>——《上帝死了》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
 
 | 2026-04-19 | “人总是贪婪的，就像最开始，我也只是想知道你的名字。”<br>——《你的名字》 | <img src='https://w.wallhaven.cc/full/lm/wallhaven-lm5gq2.png' height='150'> |
