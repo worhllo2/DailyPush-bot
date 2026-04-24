@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-24 | “我和你，可以做朋友吗？”<br>——《声の形》 | <img src='https://w.wallhaven.cc/full/o5/wallhaven-o5vx5m.jpg' height='150'> |
+
 | 2026-04-23 | “和你们这些少爷不同，我们光是活着就竭尽全力了。”<br>——《银魂》 | <img src='https://w.wallhaven.cc/full/wy/wallhaven-wyxpr7.jpg' height='150'> |
 
 | 2026-04-22 | “原谅我吧，我什么都会做的。”<br>——《BanG Dream! It's MyGO!!!!》 | <img src='https://w.wallhaven.cc/full/yj/wallhaven-yjrgqg.png' height='150'> |
