@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-28 | “星星之火，可以燎原。”<br>——《毛主席语录》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
+
 | 2026-04-27 | “可怜之人必有可恨之处，可恨之人必有可悲之苦。”<br>——《民间俗语》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
 
 | 2026-04-26 | “比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。”<br>——《AIR》 | <img src='https://w.wallhaven.cc/full/m9/wallhaven-m9dv18.jpg' height='150'> |
