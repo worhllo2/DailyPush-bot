@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-04-30 | “不幸的是我们等了那么多年，幸运的我们那么多年过去还一直在一起”<br>——《薄荷之夏》 | <img src='https://w.wallhaven.cc/full/dg/wallhaven-dgd9qj.jpg' height='150'> |
+
 | 2026-04-29 | “报复的本质只是增加了邪恶。因剑得到的亦将因剑失去。”<br>——《甘地》 | <img src='https://w.wallhaven.cc/full/g7/wallhaven-g7z3z3.jpg' height='150'> |
 
 | 2026-04-28 | “星星之火，可以燎原。”<br>——《毛主席语录》 | <img src='https://w.wallhaven.cc/full/od/wallhaven-od2vy5.jpg' height='150'> |
