@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-03 | “我们并不是什么童话故事，而是确确实实存在过。”<br>——《葬送的芙莉莲》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
+
 | 2026-05-02 | “有志者，事竟成。”<br>——《后汉书·耿弇传》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y8ox.jpg' height='150'> |
 
 | 2026-05-01 | “须知政权是由枪杆子中取得的。”<br>——《八七会议报告》 | <img src='https://w.wallhaven.cc/full/r2/wallhaven-r2eemj.png' height='150'> |
