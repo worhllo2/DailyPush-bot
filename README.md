@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-05 | “没问题，绝对没问题。”<br>——《木之本樱（无敌咒语）》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
+
 | 2026-05-04 | “我爱你，与你何干？”<br>——《歌德》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
 
 | 2026-05-03 | “我们并不是什么童话故事，而是确确实实存在过。”<br>——《葬送的芙莉莲》 | <img src='https://w.wallhaven.cc/full/md/wallhaven-mdmrok.png' height='150'> |
