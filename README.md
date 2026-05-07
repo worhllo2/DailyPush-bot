@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-07 | “你为了你的正义，我为了我的正义。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2d2.jpg' height='150'> |
+
 | 2026-05-06 | “一些事必须有个人来做，不是等英雄或神，是必须要有个人来做。”<br>——《冰海战记》 | <img src='https://w.wallhaven.cc/full/5d/wallhaven-5d85j9.png' height='150'> |
 
 | 2026-05-05 | “没问题，绝对没问题。”<br>——《木之本樱（无敌咒语）》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
