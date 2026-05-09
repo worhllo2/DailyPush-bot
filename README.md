@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-09 | “须知政权是由枪杆子中取得的。”<br>——《八七会议报告》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-05-08 | “谁不和我们一起就是反对我们，中立的人最危险。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/wq/wallhaven-wq8eer.png' height='150'> |
 
 | 2026-05-07 | “你为了你的正义，我为了我的正义。”<br>——《火影忍者》 | <img src='https://w.wallhaven.cc/full/l8/wallhaven-l8v2d2.jpg' height='150'> |
