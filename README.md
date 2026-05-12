@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-12 | “失礼。噛みました”<br>——《化物语(上)》 | <img src='https://w.wallhaven.cc/full/ox/wallhaven-oxkdrm.png' height='150'> |
+
 | 2026-05-11 | “舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。”<br>——《绝园的暴风雨》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
 
 | 2026-05-10 | “温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/r7/wallhaven-r7zoq7.jpg' height='150'> |
