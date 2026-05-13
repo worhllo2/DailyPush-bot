@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-13 | “人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。”<br>——《妖怪名单》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
+
 | 2026-05-12 | “失礼。噛みました”<br>——《化物语(上)》 | <img src='https://w.wallhaven.cc/full/ox/wallhaven-oxkdrm.png' height='150'> |
 
 | 2026-05-11 | “舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。”<br>——《绝园的暴风雨》 | <img src='https://w.wallhaven.cc/full/zx/wallhaven-zxrq3o.png' height='150'> |
