@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-15 | “爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。”<br>——《我的青春恋爱物语果然有问题》 | <img src='https://w.wallhaven.cc/full/j5/wallhaven-j5jppq.png' height='150'> |
+
 | 2026-05-14 | “我什么都不知道哦，只是你自己知道而已——阿良良木学长。”<br>——《终物语》 | <img src='https://w.wallhaven.cc/full/5w/wallhaven-5wjej7.jpg' height='150'> |
 
 | 2026-05-13 | “人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。”<br>——《妖怪名单》 | <img src='https://w.wallhaven.cc/full/2k/wallhaven-2k591y.png' height='150'> |
