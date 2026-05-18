@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-18 | “面对就好，去经历就好。”<br>——《花伞菌》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
+
 | 2026-05-17 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
 
 | 2026-05-16 | “这也算是一条路啊，或许这样会更加幸福一些。”<br>——《半妖的夜叉姬》 | <img src='https://w.wallhaven.cc/full/95/wallhaven-95y27k.png' height='150'> |
