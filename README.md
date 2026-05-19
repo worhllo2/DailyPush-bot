@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-19 | “只顾着追求新事物，却不回顾历史，怎么会有未来。”<br>——《虞美人盛开的山坡》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
+
 | 2026-05-18 | “面对就好，去经历就好。”<br>——《花伞菌》 | <img src='https://w.wallhaven.cc/full/q6/wallhaven-q6ow85.jpg' height='150'> |
 
 | 2026-05-17 | “我的一生，无怨无悔！”<br>——《北斗神拳》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8rl5q.png' height='150'> |
