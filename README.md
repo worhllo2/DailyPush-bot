@@ -100,6 +100,8 @@ Hitokoto API (Quote Source)
 | 日期 | 每日语录 | 精彩壁纸 |
 | :--- | :--- | :---: |
 <!-- HISTORY_START -->
+| 2026-05-21 | “任何一件事都具有两面性。”<br>——《弗拉基米尔·伊里奇·列宁》 | <img src='https://w.wallhaven.cc/full/d5/wallhaven-d5qe8g.jpg' height='150'> |
+
 | 2026-05-20 | “翻涌的银河，现在在此化作怒涛之光现出身姿吧！”<br>——《游戏王zexal》 | <img src='https://w.wallhaven.cc/full/1k/wallhaven-1klx23.png' height='150'> |
 
 | 2026-05-19 | “只顾着追求新事物，却不回顾历史，怎么会有未来。”<br>——《虞美人盛开的山坡》 | <img src='https://w.wallhaven.cc/full/w8/wallhaven-w8r6vr.png' height='150'> |
